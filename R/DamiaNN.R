@@ -1,4 +1,4 @@
-
+#' Neural Network code starts at line 117
 #' @description main function that runs the interactive script
 #' @details
 #' takes your numerai training data and trains a neural network to your architectural specifications.
